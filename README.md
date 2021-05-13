@@ -1,4 +1,4 @@
-## Screen RECORDER
+## Screen Recorder
 Once played it will record all the desktop activities and once the program is closed it will create a mp4 file in the same folder where is the program is stored.
 
 ## Contribution
